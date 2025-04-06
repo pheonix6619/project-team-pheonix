@@ -1,3 +1,5 @@
+Open CMD and run these commands
+
 download this repo to your local machine
 ==> " git clone https://github.com/pheonix6619/project-team-pheonix.git "
 
